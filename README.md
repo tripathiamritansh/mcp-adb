@@ -87,8 +87,3 @@ Here are some examples of how to use the MCP ADB tools in Cursor:
 ## License
 
 This project is licensed under the ISC License.
-
-## Acknowledgements
-
-- [adbkit](https://github.com/openstf/adbkit) - Node.js client for ADB
-- [Model Context Protocol](https://modelcontextprotocol.io/) - Protocol for integrating with LLMs 
